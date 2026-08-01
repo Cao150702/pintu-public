@@ -5,6 +5,8 @@
 **拼途** 是一款竖屏几何切拼叙事体验。用指尖切割、旋转、拼接悬浮的几何材料，填平道路上的坑洞，陪伴主角完成五段旅程。
 
 ---
+<img width="1054" height="1492" alt="已生成图像 1 (1)" src="https://github.com/user-attachments/assets/dcd1e6a2-f15c-4cf1-a6bd-14aadbf05925" />
+
 
 ## 玩法
 
@@ -38,5 +40,6 @@
 用手机竖屏打开即可。桌面浏览器建议调为 9:16 窗口比例。
 
 ---
+<img width="1756" height="357" alt="call_vE3814MAi1LWNX08PNv35KH5" src="https://github.com/user-attachments/assets/6b3ae958-0b22-46ac-b377-c2bf70f037d9" />
 
 *Made with geometry, canvas, and a story.*
