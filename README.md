@@ -37,7 +37,7 @@
 
 ## 体验
 
-用手机竖屏打开即可。桌面浏览器建议调为 9:16 窗口比例。
+本仓为作品展示页，当前未附在线试玩链接。作品曾在抖音 AI 创变者计划黑客松比赛中现场展示和路演。
 
 ---
 <img width="1756" height="357" alt="call_vE3814MAi1LWNX08PNv35KH5" src="https://github.com/user-attachments/assets/6b3ae958-0b22-46ac-b377-c2bf70f037d9" />
